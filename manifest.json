@@ -1,0 +1,9 @@
+{
+  "domain": "salus-st621rf-tx",
+  "name": "Salus ST621RF-TX emulator",
+  "version":"0.1",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["@cr0wbar"],
+  "requirements": ["cc1101==2.7.3"]
+}
